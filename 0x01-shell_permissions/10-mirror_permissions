@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx,g=rw,o=r hello/olleh
+chmod -R 664 olleh hello 
